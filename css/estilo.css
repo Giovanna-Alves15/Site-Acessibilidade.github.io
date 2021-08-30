@@ -1,0 +1,79 @@
+html{
+	scroll-behavior: smooth;
+}
+.gradiente{
+	background-image: linear-gradient(to right,	#6495ED, #6495ED); 
+}
+#sobre{
+	width:83%;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: justify;
+	background-image: linear-gradient(to right, #F0F8FF, #F0F8FF);
+}
+#image{
+	width:83%;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	background-image: linear-gradient(to right, #F0F8FF, #F0F8FF);
+}
+#audio{
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+.contato .info h4{
+	padding:0 0 0 60px;
+	font-size: 22px;
+	font-weight: 600;
+	margin-bottom: 5px;
+}
+
+p{
+	color: #000000;
+	font-family: arial;
+}
+.rodape{
+	background:  #87CEFA;
+	padding: 1%;
+	font-weight: 15%;
+	text-align: center;
+}
+.formulario{
+	width:83%;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: left;
+	background-image: linear-gradient(to right, #F0F8FF, #F0F8FF);
+}
+.contato .info{
+	padding: 10px 10px 10px 0px;
+	font-size: 100%;
+	background-image: linear-gradient(to right, #F0F8FF, #F0F8FF);
+	box-shadow: 0px 5px 15px;
+	border-radius:50%;
+}
+.contato .info h4{
+	padding:0 0 0 0;
+	text-align: center;
+	font-size: 22px;
+	font-weight: 600;
+	margin-bottom: 5px;
+}
+.centro{
+	text-align: center;
+}
+.cor{
+	text-align: center;
+	color:#000;
+	margin-top: 10px;
+	text-shadow: 0.1em 0.1em #6495ED;
+}
+a{
+	color: #000;
+	text-decoration: none;
+}
+a:hover{
+	color: #6495ED;
+}
